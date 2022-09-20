@@ -9,5 +9,4 @@ else:
     EUR1= float((float(DKK))/100*13.45)
     EUR= EUR1 * 0.98
     print ("you have succsesfully converted " + str(DKK) + " DKK to " + str(EUR) + " EUR")
-
-
+    
